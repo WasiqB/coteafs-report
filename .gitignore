@@ -1,0 +1,14 @@
+/target/
+/test-output/
+/settings/
+/reports/
+/logs/
+/*.gpg
+/*.gpg.lock
+/.settings/
+/.classpath
+/.project
+/.idea/
+*.iml
+.DS_Store
+/video/
